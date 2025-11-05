@@ -1,0 +1,21 @@
+[theme]
+base = "light"
+
+primaryColor = "#10a37f"              
+backgroundColor = "#ffffff"           
+secondaryBackgroundColor = "#f7f7f8"  
+textColor = "#2e2e2e"                 
+
+showWidgetBorder = false
+borderColor = "#e5e5e7"
+
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+baseFontWeight = 400
+baseFontSize = 15
+
+headingFont = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@500;600;700&display=swap"
+headingFontWeights = [700, 600, 500, 500, 500, 500]
+headingFontSizes = ["2rem", "1.25rem", "1.1rem", "1rem", "0.9rem", "0.9rem"]
+
+[client]
+toolbarMode = "minimal"
